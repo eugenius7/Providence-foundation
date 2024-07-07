@@ -1,7 +1,7 @@
- Piscine Foundation
+ Providence Foundation
 ======================================
 
-The Piscine Foundation exists to define a 
+The Providence Foundation exists to define a 
 standards-based, cross-architecture open specification for 
 accelerated computing and to foster the open-source implementations 
 of the specification.
